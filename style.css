@@ -181,6 +181,10 @@ header {
     font-size: 30px;
 }
 
+.access-h3 {
+    white-space: nowrap;
+}
+
 .second-section-div p {
     font-size: 14px;
     color: #aaa;
